@@ -64,7 +64,7 @@
                         </div>
                         <div class="ms-4">
                             203 Fake St. <br> Mountain View,
-                            <br> San Francisco, <br> California, USA
+                            <br> San Francisco, <br> California, USA.
                         </div>
                     </span>
 
