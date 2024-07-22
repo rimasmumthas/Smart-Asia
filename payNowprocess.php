@@ -13,7 +13,7 @@ if (isset($_SESSION["user"])) {
     $amount = $total;
     $merchant_id = "1221155";
     $currency = "LKR";
-    $merchant_secret = "NjY0NzI4Njg1NDA2MTkwMDg2MjEyODM2MTAxMTQyNTk0Nzk5NjI3";
+    $merchant_secret = "NjY0NzI4Njg1NDA2MTkwMDg2MjEyODM3TYAxMTQyNTk0Nzk5NjI3";
     $fname = $_SESSION["user"]["fname"];
     $lname = $_SESSION["user"]["lname"];
     $hash = strtoupper(

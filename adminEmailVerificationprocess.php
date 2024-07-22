@@ -30,7 +30,7 @@ if (!$email) {
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
         $mail->Username = 'rimasmumthasofficial@gmail.com';
-        $mail->Password = 'mhbjklfzazctpnnt';
+        $mail->Password = 'mhbjklfbabctpnnt';
         $mail->SMTPSecure = 'ssl';
         $mail->Port = 465;
         $mail->setFrom('rimasmumthasofficial@gmail.com', 'Email Verification');
